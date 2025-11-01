@@ -1,6 +1,6 @@
 # 📝 Feedback App
 
-<img width="1049" height="587" alt="Screenshot 2025-11-01 at 2 14 57 AM" src="https://github.com/user-attachments/assets/cffc3516-ea49-4a81-9cda-6a634d617596" />
+<img width="1049" height="568" alt="Screenshot 2025-11-01 at 2 16 34 AM" src="https://github.com/user-attachments/assets/d906dd24-cbae-417e-b64a-1cb090b90e2c" />
 
 A simple & fully functional **Feedback Application** built with **React**.  
 Users can leave reviews and ratings with descriptions, as well as **add**, **edit**, and **delete** feedback entries — all in a smooth, animated interface powered by **Framer Motion**.  
