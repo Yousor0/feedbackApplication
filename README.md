@@ -107,16 +107,7 @@ You can add more unit tests under the `__tests__` directory for components and u
 
 ## 🖼️ Screenshots
 
-_Add screenshots or GIFs here (e.g. a short clip showing adding/editing/deleting feedback)._  
-
----
-
-## 🧠 Future Enhancements
-
-- ✅ Add authentication  
-- ✅ Pagination or infinite scroll for large datasets  
-- ✅ Dark mode toggle  
-- ✅ Deploy to Vercel or Netlify  
+<img width="1049" height="587" alt="Screenshot 2025-11-01 at 2 14 57 AM" src="https://github.com/user-attachments/assets/cffc3516-ea49-4a81-9cda-6a634d617596" />
 
 ---
 
