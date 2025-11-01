@@ -1,5 +1,8 @@
 # 📝 Feedback App
 
+<img width="1049" height="587" alt="Screenshot 2025-11-01 at 2 14 57 AM" src="https://github.com/user-attachments/assets/cffc3516-ea49-4a81-9cda-6a634d617596" />
+
+
 A simple & fully functional **Feedback Application** built with **React**.  
 Users can leave reviews and ratings with descriptions, as well as **add**, **edit**, and **delete** feedback entries — all in a smooth, animated interface powered by **Framer Motion**.  
 A mock backend is provided via **JSON Server**.
@@ -102,12 +105,6 @@ npm test
 ```
 
 You can add more unit tests under the `__tests__` directory for components and utilities.
-
----
-
-## 🖼️ Screenshots
-
-<img width="1049" height="587" alt="Screenshot 2025-11-01 at 2 14 57 AM" src="https://github.com/user-attachments/assets/cffc3516-ea49-4a81-9cda-6a634d617596" />
 
 ---
 
